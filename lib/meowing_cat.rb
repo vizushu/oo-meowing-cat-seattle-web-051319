@@ -3,5 +3,6 @@ class Cat
   @name =  name
 end
 
-maru = Cat.new 
+maru = Cat.new
+maru.name = "Maru"
 maru.meow("Meow!")
