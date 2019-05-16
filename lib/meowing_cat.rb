@@ -3,4 +3,5 @@ class Cat
   @name =  name
 end
 
+maru = Cat.new 
 maru.meow("Meow!")
